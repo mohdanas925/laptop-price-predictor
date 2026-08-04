@@ -39,13 +39,14 @@ Clean and responsive user interface
 Laptop-Price-Predictor/
 │
 ├── app.py
-├── model.pkl
-├── pipeline.pkl
+├── pipe1.pkl
+├── df.pkl
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 │
 ├── Dataset/
-│   └── Laptop_price.csv
+│   └── Laptop_data.csv
 │
 └── notebooks/
     └── model_training.ipynb
