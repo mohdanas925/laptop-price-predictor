@@ -18,6 +18,13 @@ Handles categorical and numerical features
 Fast and accurate predictions using a trained ML model
 Clean and responsive user interface
 
+
+## ▶️ Run the Application
+https://laptop-price-predictor0925.streamlit.app/
+
+The application will open automatically in your browser.
+
+
 ## 🛠️ Tech Stack
 ### Programming Language
 - Python
@@ -70,11 +77,6 @@ The model is trained using laptop specifications such as:
 - GPU
 - Operating System
 - Price (Target Variable)
-
-## ▶️ Run the Application
-streamlit run app.py
-
-The application will open automatically in your browser.
 
 ## 📈 Machine Learning Workflow
 1. Data Collection
